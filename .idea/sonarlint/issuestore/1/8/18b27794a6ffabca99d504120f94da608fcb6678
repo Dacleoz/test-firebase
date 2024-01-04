@@ -1,0 +1,7 @@
+
+„secrets:S6334"_Make sure this Google API Key is either secured or revoked, changed, and removed from the code.(ì¾×Æùÿÿÿÿ8™ûŒçÊ1
+zjavascript:S3863"W'https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore.js' import is duplicated.(¥Ï¹§8‡İÜË1
+Mjavascript:S1128"*Remove this unused import of 'collection'.(¥Ï¹§8‡İÜË1
+Jjavascript:S1128"'Remove this unused import of 'getDocs'.(¥Ï¹§8‡İÜË1
+Ijavascript:S1128"&Remove this unused import of 'addDoc'.(¥Ï¹§8‡İÜË1
+Ljavascript:S1128")Remove this unused import of 'Timestamp'.(¥Ï¹§8‡İÜË1
